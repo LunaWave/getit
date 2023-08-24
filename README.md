@@ -30,7 +30,7 @@ GetIt is an open-source project that encourages community contributions. Regardl
 
 ## Get Started
 
-Start simplifying your command installations with GetIt today. Clone this repository and follow the provided usage guidelines. By using GetIt, you can focus more on your creative endeavors, whether that involves crafting melodies or coding innovative solutions.
+Start simplifying your command installations with GetIt today! Use the following command to get process started!
 
 **Version:** 1.0
 
